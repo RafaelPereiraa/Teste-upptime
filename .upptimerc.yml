@@ -5,8 +5,22 @@ repo: Teste-upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Teste-KPDell
-    url: $TESTE_TRKPD
+  - name: SRV01
+    url: $SRV01_URL
+  - name: SRV02
+    url: $SRV02_URL
+  - name: SRV04
+    url: $SRV04_URL
+  - name: SRV05
+    url: $SRV05_URL
+  - name: ROCKET_KPLATZ_101
+    url: $ROCKET_KPLATZ_101_URL
+  - name: ROCKET_KPLATZ_102
+    url: $ROCKET_KPLATZ_102_URL
+  - name: ROCKET_MONDAI
+    url: $ROCKET_MONDAI_URL
+  - name: ROCKET_SP_01
+    url: $ROCKET_SP_01_URL
 
 status-website:
   theme: ocean
